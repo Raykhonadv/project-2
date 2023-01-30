@@ -1,0 +1,107 @@
+* {
+  box-sizing: border-box;
+  margin: 0%;
+  padding: 0%;
+  font-family: sans-serif;
+  text-decoration: none;
+  padding: 0.5%;
+}
+
+body {
+  background-color: #202020;
+}
+
+header h2 {
+  font-family: fantasy;
+  color: #202020;
+  letter-spacing: 3px;
+}
+
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+main {
+  margin-left: 5%;
+  margin-top: 10%;
+}
+main h1 {
+  font-size: 50px;
+  color: black;
+}
+main h3 {
+  font-size: 30px;
+  color: black;
+}
+main button {
+  background-color: transparent;
+  width: 10%;
+  height: 5%;
+  border-color: black;
+  color: black;
+  font-size: 15px;
+  margin-top: 5%;
+  margin-left: 1%;
+}
+
+.inf_menu {
+  margin-top: 400px;
+  margin-left: 35%;
+}
+.inf_menu h1 {
+  color: black;
+  margin-left: 4%;
+}
+.inf_menu p {
+  font-size: 20px;
+  color: rgba(124, 124, 124, 0.768627451);
+}
+
+.img-inf {
+  display: flex;
+}
+.img-inf .n_t {
+  border-bottom: 1px solid black;
+  font-size: 35px;
+}
+.img-inf .p_d {
+  padding: 10px 25px;
+}
+.img-inf .n-t-p {
+  font-size: 20px;
+}
+.img-inf .R_more {
+  color: #337ab7;
+  margin-top: 20px;
+}
+
+.p_k {
+  margin-top: 400px;
+  margin-left: 35%;
+}
+.p_k .o_n {
+  color: black;
+  font-size: 50px;
+}
+.p_k .p_k_e {
+  font-size: 25px;
+  color: rgba(124, 124, 124, 0.768627451);
+  margin-left: 18%;
+}
+
+.our_knowladge {
+  display: flex;
+}
+.our_knowladge .p_n {
+  padding: 10px 25px;
+}
+.our_knowladge .p_n_p {
+  font-size: 20px;
+}
+.our_knowladge .r_more2 {
+  color: #337ab7;
+  margin-top: 20px;
+}/*# sourceMappingURL=main.css.map */

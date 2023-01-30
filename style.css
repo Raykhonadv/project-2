@@ -1,0 +1,393 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: serif;
+}
+/* body
+{
+    background-image: url(https://img.freepik.com/free-photo/young-business-woman-working-computer-office_1303-26078.jpg?w=2000);
+    object-fit: cover;
+    position:absolute;
+} */
+header
+{
+    width: 100%;
+    padding: 3% 5%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.nav1
+{
+    width: 100%;
+    display: flex;
+    margin-left: 15%;
+}
+.aa1
+{
+    margin-left: 8%;
+    color: gray;
+}
+.chizq
+{
+    margin-left: 50%;
+}
+main
+{
+    /* padding: 8%; */
+}
+.help
+{
+    padding: 1%;
+    font-size: 35px;
+}
+.ppp
+{
+    padding: 1.5% 1%;
+    font-size: 22px;
+}
+.but-1
+{
+    margin-left: 1%;
+    width: 130px;
+    height: 40px;
+    margin-right: 2%;
+    color: white;
+    background-color: #784F33;
+    border-radius: 30px;
+}
+.but-2
+{
+    margin-left: 1%;
+    width: 130px;
+    height: 40px;
+    margin-right: 2%;
+    color: #784F33;
+    background-color: white;
+    border-radius: 30px;
+}
+.header-2
+{
+    margin-top: 200px;
+}
+.gap
+{
+    padding: 1%;
+    font-size: 35px;
+}
+.p2
+{
+    padding: 1.5% 1%;
+    font-size: 22px;
+}
+.list
+{
+    /* padding: 1%; */
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.list-item
+{
+    width: 25%;
+    height: 80px;
+    background-color: #E2E2E2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.list-img
+{
+    margin-left: 5%;
+}
+.list-p
+{
+    display: flex;
+    align-items: center;
+    margin-left: 8%;
+}
+.list-img-2
+{
+    margin-left: 5%;
+}
+.list-p-2
+{
+    display: flex;
+    align-items: center;
+    margin-left: 8%;
+}
+.list-img-3
+{
+    margin-left: 5%;
+}
+.list-p-3
+{
+    display: flex;
+    align-items: center;
+    margin-left: 8%;
+}
+.list-2
+{
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.list-item-2
+{
+    width: 25%;
+    height: 80px;
+    background-color: #E2E2E2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.list-img-4
+{
+    margin-left: 5%;
+}
+.list-p-4
+{
+    display: flex;
+    align-items: center;
+    margin-left: 8%;
+}
+.list-img-5
+{
+    margin-left: 5%;
+}
+.list-p-5
+{
+    display: flex;
+    align-items: center;
+    margin-left: 8%;
+}
+.list-img-6
+{
+    margin-left: 5%;
+}
+.list-p-6
+{
+    display: flex;
+    align-items: center;
+    margin-left: 8%;
+}
+.but-3
+{
+    margin-left: 4%;
+    width: 130px;
+    height: 40px;
+    margin-right: 2%;
+    color: white;
+    background-color: #295C7A;
+    border-radius: 30px;
+}
+.but-4
+{
+    margin-top: 25px;
+    margin-left: 3%;
+    width: 130px;
+    height: 40px;
+    margin-right: 2%;
+    color: #295C7A;
+    background-color: white;
+    border-radius: 30px;
+}
+.list_3
+{
+    margin-top: 200px;
+}
+.who
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 35px;
+}
+.hd
+{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 22px;
+}
+.img-boy
+{
+    margin-top: 45px;
+}
+.list-4
+{
+    margin-left: 50%;
+    margin-top: -300px;
+}
+.pg
+{
+    margin-left: 50%;
+    
+}
+.h2-list
+{
+    display: inline-block;
+}
+.p-listm
+{
+    margin-left: 7%;
+    padding: 1% ;
+}
+.h2-list2
+{
+    display: inline-block;
+    margin-top: 15px;
+}
+.p-listm2
+{
+    margin-left: 7%;
+}
+.blu1
+{
+    height: 650px;
+    width: 100%;
+    left: 0%;
+    margin-top: 200px;
+    background: #295C7A;
+    z-index: 1;
+}
+.text
+{
+    text-align: center;
+    font-size: 35px;
+    color: white;
+    padding: 3%;
+}
+.text-p
+{
+    text-align: center;
+    font-size: 22px;
+    color: white;
+}
+/* .comments
+{
+    display: flex;
+    margin-top: -200px;
+    z-index: 2;
+} */
+.comment1
+{
+width: 23%;
+height: 200px;
+margin-left: 0%;
+margin-top: -350px;
+background: #FFFFFF;
+}
+.comment2
+{
+width: 25%;
+height: 200px;
+margin-left: 40%;
+margin-top: -200px;
+background: #FFFFFF;
+}
+.comment3
+{
+    width: 23%;
+height: 200px;
+margin-left: 80%;
+margin-top: -200px;
+background: #FFFFFF;
+}
+.c1-h
+{
+    margin-left: 13%;
+    padding: 3%
+}
+.d1
+{
+    margin-left: 17%;
+}
+.c2-h
+{
+    margin-left: 13%;
+    padding: 3%;
+    font-size: 32px;
+}
+.d2
+{
+    margin-left: 17%;
+}
+.c3-h
+{
+    margin-left: 13%;
+    padding: 3%;
+}
+.d3
+{
+    margin-left: 17%;
+}
+.p-text
+{
+    margin-top: 10px;
+    align-items: center;
+    text-align: center;
+    font-size: 10px;
+}
+.ppp
+{
+    margin-top: 200px;
+}
+.meet
+{
+    display: inline;
+    justify-content: center;
+    text-align: center;
+}
+.p2
+{
+    margin-top: 10px;
+}
+.mr1
+{
+    display: inline-table ;
+}
+.man1
+{
+    border-radius: 80%;
+}
+.sar1
+{
+    color: #D0A144;
+    font-size: 10px;
+    text-align: center ;
+}
+.mr2
+{
+    display: inline-table ;
+    margin-left: 29%;
+}
+.man2
+{
+    border-radius: 80%;
+}
+.sar2
+{
+    color: #D0A144;
+    font-size: 10px;
+    text-align: center ;
+}
+.mr3
+{
+    width: 10%;
+    display: inline;
+    margin-left: 70%;
+}
+.man3
+{
+    border-radius: 80%;
+}
+.sar3
+{
+    color: #D0A144;
+    font-size: 10px;
+    text-align: center ;
+}
